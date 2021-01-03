@@ -1,0 +1,10 @@
+
+__pycache__/classify.cpython-38.pyc
+
+__pycache__/Scraper_config.cpython-38.pyc
+
+__pycache__/Scraper.cpython-38.pyc
+
+.vscode/
+
+scraped_data.pkl
